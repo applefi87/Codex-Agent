@@ -1,0 +1,36 @@
+# Ignore placeholder files
+a.txt
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings and local files
+.vscode/
+*.code-workspace
+
+# devcontainer local environment files
+.devcontainer/*.env
+
+# IDE directories
+.idea/
+.vs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Dotnet build artifacts
+bin/
+obj/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+Projects/

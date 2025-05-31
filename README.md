@@ -1,7 +1,3 @@
-OK
-README.md
-a.txt
-
 ## 專案說明
 
 此專案為使用 .devcontainer 設定的 C# (.NET) 開發環境配置範本，包含以下內容：
